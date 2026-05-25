@@ -42,8 +42,8 @@ Busco minha primeira oportunidade na área de TI, especialmente em:
 
 Em breve adicionarei projetos práticos relacionados a suporte de TI, automação com Python, redes e banco de dados.
 
-## Contato
+## Contatos
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/lucas-mesquita-18711936a?utm_source=share_via&utm_con-tent=profile&utm_medium=mem-ber_ios)**
-
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcssmqt@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lmsqt_?igsh=MWZsMHQ5OGRmZ2ppcw%3D%3D&utm_source=qr)
