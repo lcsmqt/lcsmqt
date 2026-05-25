@@ -48,7 +48,7 @@ Em breve adicionarei projetos práticos relacionados a suporte de TI, automaçã
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="145" height="35">
   </a>
 
-  <a href="mailto:lcssmqt@gmail.com">
+  <a href="[mailto:lcssmqt@gmail.com]https://mail.google.com/mail/?view=cm&fs=1&to=lcssmqt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="145" height="35">
   </a>
 
