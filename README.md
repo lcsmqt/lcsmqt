@@ -44,7 +44,7 @@ Em breve adicionarei projetos práticos relacionados a suporte de TI, automaçã
 
 ## Contatos
 <p align="left">
-  <a href="(https://www.linkedin.com/in/lucas-mesquita-18711936a?utm_source=share_via&utm_con-tent=profile&utm_medium=mem-ber_ios)">
+  <a href="https://www.linkedin.com/in/lucas-mesquita-18711936a?utm_source=share_via&utm_con-tent=profile&utm_medium=mem-ber_ios">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="145" height="35">
   </a>
 
@@ -52,7 +52,7 @@ Em breve adicionarei projetos práticos relacionados a suporte de TI, automaçã
     <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="145" height="35">
   </a>
 
-  <a href="(https://www.instagram.com/lmsqt_?igsh=MWZsMHQ5OGRmZ2ppcw%3D%3D&utm_source=qr)">
+  <a href="https://www.instagram.com/lmsqt_?igsh=MWZsMHQ5OGRmZ2ppcw%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="145" height="35">
   </a>
 </p>
