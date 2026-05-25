@@ -45,4 +45,5 @@ Em breve adicionarei projetos práticos relacionados a suporte de TI, automaçã
 ## Contato
 
 LinkedIn: https://www.linkedin.com/in/lucas-mesquita-18711936a?utm_source=share_via&utm_con-tent=profile&utm_medium=mem-ber_ios
+
 E-mail: lcssmqt@gmail.com
